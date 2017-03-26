@@ -42,17 +42,10 @@ PySpark Tutorial and References...
 * [Basic Big Data Manipulation with PySpark](http://bigdatasciencebootcamp.com/posts/Part_3/basic_big_data.html)
 * [Working in Pyspark: Basics of Working with Data and RDDs](http://www.learnbymarketing.com/618/pyspark-rdd-basics-examples/)
 
-Questions/Comments
-==================
-* [View Mahmoud Parsian's profile on LinkedIn](http://www.linkedin.com/in/mahmoudparsian)
-* Please send me an email: mahmoud.parsian@yahoo.com
-* [Twitter: @mahmoudparsian](http://twitter.com/mahmoudparsian) 
+
 
 Thank you!
 
 ````
 best regards,
-Mahmoud Parsian
-````
-
-[![Data Algorithms Book](https://github.com/mahmoudparsian/data-algorithms-book/blob/master/misc/large-image.jpg)](http://shop.oreilly.com/product/0636920033950.do) 
+Theja Nagala
