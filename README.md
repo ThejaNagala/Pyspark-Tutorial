@@ -1,9 +1,7 @@
 PySpark Tutorial
 ================
 PySpark is the Spark Python API.  The purpose of PySpark tutorial is to 
-provide basic distributed algorithms using PySpark. Note that PySpark is 
-an interactive shell for basic testing and debugging and is not supposed 
-to be used for production environment.
+provide basic distributed algorithms using PySpark.
 
 [Download, Install Spark and Run PySpark](./howto/download_install_run_spark.md) 
 ================================================================================
